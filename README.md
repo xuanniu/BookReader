@@ -12,3 +12,8 @@ from a list of chapters for that particular book. Once the user selects a chapte
 - Search by title, chapter, or summary from a list of books
 - Pagination when scrolling through the list of books
 - Bottom navigation menu
+## Getting Started
+- Git clone https://github.com/xuanniu/BookReader.git
+- Install Android Studio
+- Create an emulator on android studio or link it with your own android device
+- Launch the app
